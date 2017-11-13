@@ -1,1 +1,10 @@
 Put your Project 5 brief explanation, as directed, here.
+
+    I am accessing the Tumblr API and gathering:
+    - Blog information for two blogs to compare the following:
+	    - Blog details such as title, url, and number of posts
+	    - For each blog, I'm also looking for full descriptions and tag information, including other metadata to compare between the blogs
+	    - I'll write 3 CSV files:
+	    	- a blog csv that will display overall blog information for both blogs
+	    	- a CSV per each blog with detailed post information for 20 cached posts
+	    - URL for the API: https://www.tumblr.com/docs/en/api/v2#posts
